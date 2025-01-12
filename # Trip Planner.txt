@@ -1,0 +1,30 @@
+# Trip Planner
+
+A modern web application for planning trips, built with **HTML**, **Tailwind CSS**, **JavaScript**, **React**, and **Node.js**. The application enables users to add and manage their trips with details like destination, start and end dates, and additional notes.
+
+## Features
+
+- **Add New Trip**: Input destination, start and end dates, and notes for your trips.
+- **View Trips**: Displays a list of all your planned trips.
+- **Responsive Design**: Optimized for both desktop and mobile devices using Tailwind CSS.
+
+## Technologies Used
+
+- **Frontend**: 
+  - React
+  - Tailwind CSS
+  - HTML5
+  - JavaScript (ES6+)
+- **Backend**:
+  - Node.js
+  - Express.js (if applicable)
+- **Other Tools**:
+  - Package managers (npm/yarn)
+  - Build tools (Webpack/Vite, if applicable)
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/trip-planner.git
+   cd trip-planner
